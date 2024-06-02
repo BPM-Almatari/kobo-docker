@@ -18,5 +18,5 @@ DJANGO_LANGUAGE_CODES=en fr es ar zh-hans hi ku
 
 
 # Dev: One or more mappings from PyDev remote debugging machine file paths to `kpi` container file
-#   paths (see https://github.com/kobotoolbox/kpi/blob/master/docker/setup_pydev.bash).
+#   paths (see https://github.com/BPM-Almatari/kpi/blob/master/docker/setup_pydev.bash).
 #KPI_PATH_FROM_ECLIPSE_TO_PYTHON_PAIRS=~/devel/kpi -> /srv/src/kpi | ~/devel/formpack/src/formpack -> /usr/local/lib/python2.7/dist-packages/formpack

@@ -29,7 +29,7 @@ Add yourself to the "docker" group so you don't have to use sudo for every docke
 You need to login and logout for this to take effect.
 
 
-Then you must clone the `kobo-docker repository <https://github.com/kobotoolbox/kobo-docker>`_:
+Then you must clone the `kobo-docker repository <https://github.com/BPM-Almatari/kobo-docker>`_:
 
 .. code-block:: bash
 
