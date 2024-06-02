@@ -33,7 +33,7 @@ Then you must clone the `kobo-docker repository <https://github.com/BPM-Almatari
 
 .. code-block:: bash
 
-    git clone https://github.com/kobotoolbox/kobo-docker.git
+    git clone https://github.com/BPM-Almatari/kobo-docker.git
     cd kobo-docker
 
 Troubleshoutting
